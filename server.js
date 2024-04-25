@@ -18,7 +18,7 @@ const menuItemRoutes = require('./routes/menuItemRoutes');
 app.use('/person', personRoutes);
 app.use('/menu', menuItemRoutes);
 
-//   comment added 
+//   comment added again so that we can push in github
 app.listen(3000, ()=>{
     console.log('listening on port 3000');
 })
