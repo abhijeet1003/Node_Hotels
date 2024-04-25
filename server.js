@@ -28,5 +28,5 @@ app.use('/menu', menuItemRoutes);
 
 //   comment added again so that we can push in github
 app.listen(PORT, ()=>{
-    console.log('listening on port 3000');
+    console.log('listening on port 5000');
 })
